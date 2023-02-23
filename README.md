@@ -15,7 +15,7 @@ These are four XML metadata files for the XLSX data files. They are structured a
 - ActiveSpaceMetadata
 - BehaviorModelsMetadata
 - DepthDataMetadata
-- MpvementDataMetadata
+- MovementDataMetadata
 
 ## Final Report File
 
