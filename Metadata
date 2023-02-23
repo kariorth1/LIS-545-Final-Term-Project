@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dwc:archive xmlns:dwc="http://rs.tdwg.org/dwc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://rs.tdwg.org/dwc/dwcore.xsd">
+  <dwc:dataset>
+    <dwc:core>
+	<dwc:id index="0"/>
+      <dwc:field index="1" term="TagID"/>
+      <dwc:field index="2" term="Bin"/>
+      <dwc:field index="3" term="NumESB"/>
+      <dwc:field index="4" term="SurfTime"/>
+      <dwc:field index="5" term="SIProp"/>
+      <dwc:field index="6" term="DiveFreq"/>
+      <dwc:field index="7" term="Speed"/>
+      <dwc:field index="8" term="Course"/>
+      <dwc:field index="9" term="CourseDev"/>
+      <dwc:field index="10" term="SpeedS"/>
+      <dwc:field index="11" term="CourseS"/>
+    </dwc:core>
+    <dwc:extension extension="http://rs.gbif.org/terms/1.0/Multimedia">
+      <dwc:field index="12" term="Multimedia"/>
+    </dwc:extension>
+  </dwc:dataset>
+</dwc:archive>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<dwc:archive xmlns:dwc="http://rs.tdwg.org/dwc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://rs.tdwg.org/dwc/dwcore.xsd">
+  <dwc:dataset>
+    <dwc:core>
+	<dwc:id index="0"/>
+      <dwc:field index="1" term="TagID"/>
+      <dwc:field index="2" term="DiveTime"/>
+      <dwc:field index="3" term="DiveDur"/>
+      <dwc:field index="4" term="MaxDepth"/>
+      <dwc:field index="5" term="MeanDepth"/>
+      <dwc:field index="6" term="Behavior"/>
+      <dwc:field index="7" term="BehavBinary"/>
+    </dwc:core>
+    <dwc:extension extension="http://rs.gbif.org/terms/1.0/Multimedia">
+      <dwc:field index="8" term="Multimedia"/>
+    </dwc:extension>
+  </dwc:dataset>
+</dwc:archive>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<dwc:archive xmlns:dwc="http://rs.tdwg.org/dwc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://rs.tdwg.org/dwc/dwcore.xsd">
+  <dwc:dataset>
+    <dwc:core>
+	<dwc:id index="0"/>
+      <dwc:field index="1" term="TagID"/>
+      <dwc:field index="2" term="Bin"/>
+      <dwc:field index="3" term="Calls"/>
+      <dwc:field index="4" term="Mum"/>
+      <dwc:field index="5" term="Calf"/>
+      <dwc:field index="6" term="Time"/>
+      <dwc:field index="7" term="Behaviour"/>
+	<dwc:field index="8" term="RLrms"/>
+    </dwc:core>
+    <dwc:extension extension="http://rs.gbif.org/terms/1.0/Multimedia">
+      <dwc:field index="9" term="Multimedia"/>
+    </dwc:extension>
+  </dwc:dataset>
+</dwc:archive>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<dwc:archive xmlns:dwc="http://rs.tdwg.org/dwc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://rs.tdwg.org/dwc/dwcore.xsd">
+  <dwc:dataset>
+    <dwc:core>
+	<dwc:id index="0"/>
+      <dwc:field index="1" term="TagID"/>
+      <dwc:field index="2" term="Depth"/>
+      <dwc:field index="3" term="Behaviour"/>
+      <dwc:field index="4" term="RL"/>
+      <dwc:field index="5" term="PF"/>
+      <dwc:field index="6" term="Time"/>
+      <dwc:field index="7" term="Centre"/>
+	<dwc:field index="8" term="BBNL"/>
+	<dwc:field index="9" term="SignalLoss"/>
+      <dwc:field index="10" term="Distance"/>
+      <dwc:field index="11" term="50"/>
+	<dwc:field index="12" term="100"/>
+	<dwc:field index="13" term="150"/>
+	<dwc:field index="14" term="200"/>
+	<dwc:field index="15" term="250"/>
+	<dwc:field index="16" term="300"/>
+	<dwc:field index="17" term="350"/>
+	<dwc:field index="18" term="400"/>
+	<dwc:field index="19" term="450"/>
+	<dwc:field index="20" term="500"/>
+	<dwc:field index="21" term="550"/>
+	<dwc:field index="22" term="600"/>
+	<dwc:field index="23" term="650"/>
+	<dwc:field index="24" term="700"/>
+	<dwc:field index="25" term="800"/>
+	<dwc:field index="26" term="850"/>
+	<dwc:field index="27" term="900"/>
+	<dwc:field index="28" term="950"/>
+	<dwc:field index="29" term="1000"/>
+	<dwc:field index="30" term=">1000"/>
+	<dwc:field index="31" term="Centre"/>
+	<dwc:field index="32" term="Range"/>
+	<dwc:field index="33" term="Dist Cutoff"/>
+	<dwc:field index="34" term="TL1"/>
+	<dwc:field index="35" term="TL2"/>
+    </dwc:core>
+    <dwc:extension extension="http://rs.gbif.org/terms/1.0/Multimedia">
+      <dwc:field index="36" term="Multimedia"/>
+    </dwc:extension>
+  </dwc:dataset>
+</dwc:archive>
