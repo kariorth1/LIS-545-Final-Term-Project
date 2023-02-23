@@ -19,7 +19,7 @@ These are four XML metadata files for the XLSX data files. They are structured a
 
 ## Final Report File
 
-This is a document that contains the following components:
+This is a word document that contains the following components:
 
 - Data and Metadata Profile
 - Repository Profile
