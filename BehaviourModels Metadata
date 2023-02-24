@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dwc:archive xmlns:dwc="http://rs.tdwg.org/dwc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://rs.tdwg.org/dwc/dwcore.xsd">
+  <dwc:dataset>
+    <dwc:core>
+	<dwc:id index="0"/>
+      <dwc:field index="1" term="TagID"/>
+      <dwc:field index="2" term="Bin"/>
+      <dwc:field index="3" term="Calls"/>
+      <dwc:field index="4" term="Mum"/>
+      <dwc:field index="5" term="Calf"/>
+      <dwc:field index="6" term="Time"/>
+      <dwc:field index="7" term="Behaviour"/>
+	<dwc:field index="8" term="RLrms"/>
+    </dwc:core>
+    <dwc:extension extension="http://rs.gbif.org/terms/1.0/Multimedia">
+      <dwc:field index="9" term="Multimedia"/>
+    </dwc:extension>
+  </dwc:dataset>
+</dwc:archive>
