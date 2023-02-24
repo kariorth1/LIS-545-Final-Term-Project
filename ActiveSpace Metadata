@@ -5,17 +5,17 @@
   <dwc:dataset>
     <dwc:core>
 	<dwc:id index="0"/>
-      <dwc:field index="1" term="TagID"/>
-      <dwc:field index="2" term="Depth"/>
-      <dwc:field index="3" term="Behaviour"/>
-      <dwc:field index="4" term="RL"/>
-      <dwc:field index="5" term="PF"/>
-      <dwc:field index="6" term="Time"/>
-      <dwc:field index="7" term="Centre"/>
+      	<dwc:field index="1" term="TagID"/>
+      	<dwc:field index="2" term="Depth"/>
+     	<dwc:field index="3" term="Behaviour"/>
+     	<dwc:field index="4" term="RL"/>
+      	<dwc:field index="5" term="PF"/>
+      	<dwc:field index="6" term="Time"/>
+      	<dwc:field index="7" term="Centre"/>
 	<dwc:field index="8" term="BBNL"/>
 	<dwc:field index="9" term="SignalLoss"/>
-      <dwc:field index="10" term="Distance"/>
-      <dwc:field index="11" term="50"/>
+     	<dwc:field index="10" term="Distance"/>
+      	<dwc:field index="11" term="50"/>
 	<dwc:field index="12" term="100"/>
 	<dwc:field index="13" term="150"/>
 	<dwc:field index="14" term="200"/>
