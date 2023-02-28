@@ -1,5 +1,9 @@
 # LIS-545-Final-Term-Project
 
+## About
+
+The data in this project are the movement metrics, call rates, and acoustic levels of  humpback whale (Megaptera novaeangliae) adult female-calf pairs as they migrate. The data mainly concerns the spatial separation and communication between these parent-offspring pairs.
+
 ## Data Files
 
 These are four XLSX files contain the dataset for the project "“Humpback whale adult females and calves balance acoustic contact with vocal crypsis during periods of increased separation."
