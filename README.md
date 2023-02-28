@@ -12,10 +12,14 @@ These are four XLSX files contain the dataset for the project "“Humpback whale
 ## Metadata Files
 
 These are four metadata files for the XLSX data files. They are in XML format and structured according to the Darwin Core standard. More information about the Darwin Core standard can be found here: https://dwc.tdwg.org/. 
-- ActiveSpaceMetadata
-- BehaviorModelsMetadata
-- DepthDataMetadata
-- MovementDataMetadata
+- ActiveSpace Metadata
+- BehaviorModels Metadata
+- DepthData Metadata
+- MovementData Metadata
+
+## Column Heading Definitions
+
+There is one PDF file that contains definitions for the column headings. 
 
 ## Final Report File
 
