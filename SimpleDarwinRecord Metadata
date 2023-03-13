@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SimpleDarwinRecordSet xmlns="http://rs.tdwg.org/dwc/xsd/simpledarwincore/"
+    xmlns:dc="http://purl.org/dc/terms/"
+    xmlns:dwc="http://rs.tdwg.org/dwc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://rs.tdwg.org/dwc/xsd/simpledarwincore/ http://rs.tdwg.org/dwc/xsd/tdwg_dwc_simple.xsd">
+      <SimpleDarwinRecord>
+        <dc:language>en</dc:language>
+        <dwc:basisOfRecord>Taxon</dwc:basisOfRecord>
+        <dwc:scientificName>Megaptera novaeangliae (Borowski, 1781)</dwc:scientificName>
+        <dwc:acceptedNameUsage>Megaptera novaeangliae (Borowski, 1781)</dwc:acceptedNameUsage>
+        <dwc:parentNameUsage>Megaptera (Gray, 1846)</dwc:parentNameUsage>
+        <dwc:originalNameUsage>Balaena novaeangliae (Borowski, 1781)</dwc:originalNameUsage>
+        <dwc:nameAccordingTo>Sterrer, W. (1986). Marine fauna and flora of Bermuda: a systematic guide to the identification of marine organisms. Wiley-Interscience Publication. Wiley, 742 pp</dwc:nameAccordingTo>
+        <dwc:namePublishedIn>Borowski, G. H. (1781). Gemeinnüzzige Naturschichte des Tierreichs. G. L. Lange, Berlin and Stralsund. 2: 1-196.</dwc:namePublishedIn>
+        <dwc:higherClassification>Animalia;Chordata;Vertebrata;Gnathostomota;Tetrapoda;Mammalia;Theria;Cetartiodactyla;Cetancodonta;Cetacea;Mysticeti;Balaenopteridae;Megaptera;Megaptera novaeangliae</dwc:higherClassification>
+        <dwc:kingdom>Animalia</dwc:kingdom>
+        <dwc:phylum>Chordata</dwc:phylum>
+        <dwc:class>Mammalia</dwc:class>
+        <dwc:order>Cetartiodactyla</dwc:order>
+        <dwc:family>Balaenopteridae</dwc:family>
+        <dwc:genus>Megaptera</dwc:genus>
+        <dwc:specificEpithet>novaeangliae</dwc:specificEpithet>
+        <dwc:scientificNameAuthorship>Borowski, 1781</dwc:scientificNameAuthorship>
+        <dwc:taxonRank>species</dwc:taxonRank>
+        <dwc:nomenclaturalCode>ICZN</dwc:nomenclaturalCode>
+        <dwc:taxonomicStatus>accepted</dwc:taxonomicStatus>
+  </SimpleDarwinRecord>
+</SimpleDarwinRecordSet>
