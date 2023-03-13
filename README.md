@@ -15,11 +15,14 @@ These are four XLSX files contain the dataset for the project "“Humpback whale
 
 ## Metadata Files
 
-These are four metadata files for the XLSX data files. They are in XML format and structured according to the Darwin Core standard. More information about the Darwin Core standard can be found here: https://dwc.tdwg.org/. 
+These are five metadata files for the XLSX data files. They are in XML format and structured according to the Darwin Core standard. More information about the Darwin Core standard can be found here: https://dwc.tdwg.org/. 
 - ActiveSpace Metadata
 - BehaviourModels Metadata
 - DepthData Metadata
 - MovementData Metadata
+
+Also included the fifth metadata file is a SimpleDarwinRecord for the species Megaptera novaeanglie (Humpback Whale), the species that this project is centered on. This has been included as recommended by instructor feedback. 
+- SimpleDarwinRecord 
 
 ## Column Heading Definitions
 
